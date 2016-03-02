@@ -1,2 +1,7 @@
-Download pyarandomagent.py
-sudo cp Downloads/pyrandomagent.py /usr/lib/python2.7/pyrandomagent.py
+#Commands for linux installation
+sudo su
+cd /
+apt-get install git
+git clone https://github.com/zer0c0d3/pyrandomagent.git
+cp pyrandomagent/pyrandomagent.py /usr/lib/python2.7/pyrandomagent.py
+rm -rf pyrandomagent
