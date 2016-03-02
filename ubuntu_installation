@@ -1,0 +1,2 @@
+Download pyarandomagent.py
+sudo cp Downloads/pyrandomagent.py /usr/lib/python2.7/pyrandomagent.py
