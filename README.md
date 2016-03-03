@@ -1,5 +1,5 @@
 # pyrandomagent
-#This Python lib give you a random browser user-agent of firefox,chrome,opera and internet explorer
+#This Python lib gives you a random browser user-agent of firefox,chrome,opera and internet explorer
 # save pyrandomagent.py in python libs or in your folder
 # see the very simple code example 
 
